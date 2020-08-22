@@ -31,5 +31,18 @@
 			"account_name": "tony5",
 			"password": "123a"
 		}
+	],
+	"City":
+	[
+		{
+			"id_city": 1,
+			"city_name": "Ho Chi Minh",
+			"Post_code": 9000
+		},
+		{
+			"id_city": 2,
+			"city_name": "America",
+			"Post_code": 2999
+		}
 	]
 }
